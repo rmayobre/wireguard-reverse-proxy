@@ -1,0 +1,5 @@
+/coredns/
+/custom-cont-init.d/
+/custom-services.d/
+/templates/
+/wg0.conf
